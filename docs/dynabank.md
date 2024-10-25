@@ -3,16 +3,16 @@
 Index
 ===
     
-*   [Full Stack: Front-to-Back](#Index)
+*   [Full Stack: Front-to-Back](#full-stack-front-to-back)
 *   [2) Pre-flight Check](#2---pre-flight-check)
-*   [3) Dynatrace Intro](#DynatraceIntro) 
-*   [4) Deploy](#Deploy)
-*   [5) Explore: Dynabank](#ExploreDynabank)
-*   [6) Release: Dynabank](#ReleaseDynabank)
-*   [7) Troubleshoot!](#Troubleshoot)
-*   [8) Customization](#Customization)
-*   [9) Sessions / Session Replay](#SessionsSessionReplay)
-*   [A) Azure Specific](#AzureSpecific)
+*   [3) Dynatrace Intro](#3---dynatrace-intro) 
+*   [4) Deploy](#4---deploy)
+*   [5) Explore: Dynabank](#5---explore-dynabank)
+*   [6) Release: Dynabank](#6---release-dynabank)
+*   [7) Troubleshoot!](#7---troubleshoot)
+*   [8) Customization](#8---customization)
+*   [9) Sessions / Session Replay](#9---sessions--session-replay)
+*   [A) Azure Specific](#a---azure-specific)
     
 
 [GitHub](https://github.com/dtdave/dbic)
@@ -186,16 +186,16 @@ Congratulations, you’ve built an Kubernetes cluster!
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
 
     
 <br /><br /><br />
@@ -241,16 +241,16 @@ Section Complete!
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
 
 
 <br /><br /><br />
@@ -391,16 +391,16 @@ Congratulations, you’ve deployed Dynatrace for end to end observability and a 
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
 
 
 <br /><br /><br />
@@ -559,16 +559,16 @@ Congratulations, you’ve successfully explored your application in Dynatrace!
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
 
 
 <br /><br /><br />
@@ -628,16 +628,16 @@ Your DynaBank account is authorized to deploy new software features!
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
 
 
 <a name="Troubleshoot"></a>
@@ -726,16 +726,16 @@ Companies using this today
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
 
 
 <br /><br /><br />
@@ -868,16 +868,16 @@ You've successfully see how Dynatrace can be tailored to your specific needs.
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
 
 
 <br /><br /><br />
@@ -922,16 +922,16 @@ Overview of Session Replay in Dynatrace.
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
 
 
 <br /><br /><br /> 
@@ -1106,13 +1106,13 @@ With the Grail framework powering Log and Business Event ingestion, we can quick
 
 *   Index
     
-    *   [Full Stack: Front-to-Back](#Index)
+    *   [Full Stack: Front-to-Back](#full-stack-front-to-back)
     *   [2) Pre-flight Check](#Pre-flightCheck)
-    *   [3) Dynatrace Intro](#DynatraceIntro)
-    *   [4) Deploy](#Deploy)
-    *   [5) Explore: Dynabank](#ExploreDynabank)
-    *   [6) Release: Dynabank](#ReleaseDynabank)
-    *   [7) Troubleshoot!](#Troubleshoot)
-    *   [8) Customization](#Customization)
-    *   [9) Sessions / Session Replay](#SessionsSessionReplay)
-    *   [A) Azure Specific](#AzureSpecific)
+    *   [3) Dynatrace Intro](#3---dynatrace-intro)
+    *   [4) Deploy](#3---dynatrace-intro)
+    *   [5) Explore: Dynabank](#5---explore-dynabank)
+    *   [6) Release: Dynabank](#6---release-dynabank)
+    *   [7) Troubleshoot!](#7---troubleshoot)
+    *   [8) Customization](#8---customization)
+    *   [9) Sessions / Session Replay](#9---sessions--session-replay)
+    *   [A) Azure Specific](#a---azure-specific)
