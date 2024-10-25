@@ -33,7 +33,7 @@ It requires login credentials provided by your instructor. If you’re intereste
 Section Overview
 ===
 
-*   [Overview](#section-overview-1)
+*   [Overview](#section-overview)
 *   [Typical Agenda](#typical-agenda)
 *   [Introductions/Housekeeping](#introductionshousekeeping)
     *   [Housekeeping](#housekeeping)
