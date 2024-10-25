@@ -1,5 +1,5 @@
 
-<a name="Index"></a>
+
 Index
 ===
     
@@ -19,7 +19,7 @@ Index
 
 
 
-<a name="FullStackFront-to-Back"></a>
+
 Full Stack: Front-to-Back
 =========================
 
@@ -29,7 +29,7 @@ Please join us in a hands-on workshop where we’ll use the power of Dynatrace a
 
 It requires login credentials provided by your instructor. If you’re interested in running this workshop yourself or with your organization, please [contact us](https://www.dynatrace.com/contact/)!
 
-<a name="Overview1"></a>
+
 Section Overview
 ===
 
@@ -38,7 +38,7 @@ Section Overview
 *   [Introductions/Housekeeping](#introductionshousekeeping)
     *   [Housekeeping](#housekeeping)
 
-<a name="TypicalAgenda"></a>
+
 Typical Agenda
 --------------
 
@@ -60,12 +60,12 @@ Typical Agenda
 *   30m User Sessions, Session replay
 *   Final Q&A and wrap-up
 
-<a name="IntroductionsHousekeeping"></a>
+
 Introductions/Housekeeping
 --------------------------
 <img src="../images/spaceballs.yZ4LnrjP_Z1JwWgI.webp">
 
-<a name="Housekeeping"></a>
+
 ### Housekeeping
 
 *   Phone calls, Restrooms, Breakouts <img src="../images/breakoutrooms.PotW5HAZ_I8EGa.webp">
@@ -81,12 +81,12 @@ About our group:
 
 <br /><br /><br />
 
-<a name="Pre-flightCheck"></a>
+
 2 - Pre-flight Check 
 ===
 <br />
 
-<a name="Overview2"></a>
+
 Section Overview
 ===
 
@@ -100,7 +100,7 @@ Section Overview
 *   [C) Setup](#c-setup)
 
 
-<a name="EnvironmentSetup"></a>
+
 Environment setup
 ---
 
@@ -110,7 +110,7 @@ Please keep in mind that this is a “live-fire” experience. It’s instructor
 
 Please let us know how it’s going with thumbs up reactions when it’s good sailing and chat/speak up if things are tipping over.
 
-<a name="DynatraceTenantSetup"></a>
+
 A) Dynatrace tenant setup
 -------------------------
 
@@ -119,7 +119,7 @@ A) Dynatrace tenant setup
 3.  Follow the prompts.
 4.  Check email (junk/spam folders!) for a “Welcome” message.
 
-<a name="CloudSetup"></a>
+
 
 B) Cloud setup
 --------------
@@ -127,7 +127,7 @@ B) Cloud setup
 1.  Dynatrace works natively across cloud providers. Follow the instructor prompts to connect to your selected environment.
 2.  Once logged in check the section below matching your provider.
 
-<a name="CloudSetupAWS"></a>
+
 ### AWS
 
 1.  In the top right bar, confirm the region is Ohio. If not, click the region and select “US EAST (OHIO)” <img src="../images/preflight1.3fIdo1o1_sQNBt.webp">
@@ -135,7 +135,7 @@ B) Cloud setup
 3.  in the top bar, open an AWS cloud shell session by clicking the shell icon. <img src="../images/preflight2.BIzX0nMU_Z1A38Yu.webp">
 4.  If the text is ridiculously tiny, there is a gear icon in the top right you can select to pick something other than “microscopic”.
 
-<a name="CloudSetupAzure"></a>
+
 
 ### AZURE
 
@@ -143,14 +143,14 @@ B) Cloud setup
 2.  The setup steps should automatically connect you to the correct subscription.
 3.  A resource group will be created for you during setup steps. You’ll have full access to all items in this group.
 
-<a name="CloudSetupGCP"></a>
+
 
 ### GCP
 
 1.  In your google cloud console, start a shell from the prompt icon top right. <img src="../images/cloudgoogle.CuIv9Trk_XoYjl.webp">
 2.  You have full access to the **project** in Google Cloud. Ensure you select your designated project during setup steps.
 
-<a name="Setup"></a>
+
 C) Setup
 --------
 
@@ -200,12 +200,12 @@ Congratulations, you’ve built an Kubernetes cluster!
     
 <br /><br /><br />
 
-<a name="DynatraceIntro"></a>
+
 3 - Dynatrace Intro
 ==================
 <br />
 
-<a name="Overview3"></a>
+
 Section Overview
 ===
 
@@ -215,7 +215,7 @@ Section Overview
     *   [Login Page](#login-page)
     *   [Architecture Overview](#architecture-overview)
 
-<a name="Dynatrace"></a>
+
 Dynatrace
 ---------
 
@@ -224,15 +224,15 @@ Dynatrace
 *   Brief overview of [Dynatrace](https://www.dynatrace.com/)
 *   [Dynatrace Hub](https://www.dynatrace.com/hub/)
 
-<a name="Dynabank"></a>
+
 Dynabank
 --------
 
-<a name="LoginPage"></a>
+
 ### Login Page
 <img src="../images/dynabank.BVMHfkA1_1xOhIk.webp">
 
-<a name="ArchitectureOverview"></a>
+
 ### Architecture Overview
 <img src="../images/DynaBankInsuraCart.BvoXZC_z_Z1TmFLI.webp">
 
@@ -255,35 +255,35 @@ Section Complete!
 
 <br /><br /><br />
 
-<a name="Deploy"></a>
+
 4 - Deploy
 ===
 
 <br />
 
-<a name="Overview4"></a>
+
 Section Overview
 ===
 
 *   [Overview](#section-overview-3)
-*   [Dynatrace](#DeployDynatraceSection)
-    *   [A) Create a Token](#CreateAToken)
-    *   [B) Save token in Pepper](#SavetokeninPepper)
-    *   [C) Deploy Dynatrace](#DeployDynatrace)
-    *   [D) Confirm Deployment](#ConfirmDeployment)
-*   [DynaBank](#Dynabank4)
-    *   [E) Deploy DynaBankInsuraCart](#DeployDynaBankInsuraCart)
-    *   [F) Dynabank (Quick) Overview](#DynabankOverview)
+*   [Dynatrace](#dynatrace-1)
+    *   [A) Create a Token](#a-create-a-token)
+    *   [B) Save token in Pepper](#b-save-token-in-pepper)
+    *   [C) Deploy Dynatrace](#c-deploy-dynatrace)
+    *   [D) Confirm Deployment](#d-confirm-deployment)
+*   [DynaBank](#dynabank-1)
+    *   [E) Deploy DynaBankInsuraCart](#e-deploy-dynabankinsuracart)
+    *   [F) Dynabank (Quick) Overview](#f-dynabank-quick-overview)
 
 
 
-<a name="DeployDynatraceSection"></a>
+
 Dynatrace
 ---------
 
 Dynatrace provides a managed token system to make deployments secure and easy. In this section, we’ll give Pepper access to the tenant.
 
-<a name="CreateAToken"></a>
+
 ### A) Create a Token
 
 Tip
@@ -299,7 +299,7 @@ If you have used Dynatrace before it might automatically login to other tenants.
 6.  Click “Generate Token” at the bottom of the screen. Click Copy on the following screen. Make sure to **copy/paste** your token somewhere safe before clicking done.
 7.  Click Done.
 
-<a name="SavetokeninPepper"></a>
+
 
 ### B) Save token in Pepper
 
@@ -308,7 +308,7 @@ If you have used Dynatrace before it might automatically login to other tenants.
 3.  Pepper will confirm a valid connection and save the token.
 4.  Press _enter_ to stop Pepper for now.
 
-<a name="DeployDynatrace"></a>
+
 
 ### C) Deploy Dynatrace
 
@@ -328,7 +328,7 @@ Alternatively, open the Manage subheading at the bottom of left menu, then “De
 6.  Press _enter_ a couple of times to ensure your cloud provider runs all 4 steps.
     
 
-<a name="ConfirmDeployment"></a>
+
 
 ### D) Confirm Deployment
 
@@ -346,12 +346,12 @@ Terminal window
 
 3.  In Dynatrace, you can check on deployment status from the menu. Select “active gates” from the inner menu to confirm Dynatrace is connected.
 
-<a name="Dynabank4"></a>
+
 
 DynaBank
 --------
 
-<a name="DeployDynaBankInsuraCart"></a>
+
 
 ### E) Deploy DynaBankInsuraCart
 
@@ -364,7 +364,7 @@ Pepper is able to deploy any number of applications via a yaml file. This sessio
 5.  When all pods are ready, you can copy the application URL into a new browser. <img src="../images/appurl.D6zkkqaw_1MI7Rx.webp">
 
 
-<a name="DynabankOverview"></a>
+
 
 ### F) Dynabank (Quick) Overview
 
@@ -405,32 +405,32 @@ Congratulations, you’ve deployed Dynatrace for end to end observability and a 
 
 <br /><br /><br />
 
-<a name="ExploreDynabank"></a>
+
 5 - Explore: Dynabank 
 ===
 
 <br />
 
-<a name="Overview5"></a>
+
 Section Overview
 ===
 
-*   [Overview](#Overview5)
-*   [A) Smartscape](#Smartscape)
-*   [B) Services View](#ServiceView)
-    *   [Dynatrace workshops versus real deployment or evaluations](#Dynatraceworkshopsversus)
-*   [C) Kubernetes View](#Kubernetesview)
-*   [D) Databases View](#Databasesview)
-*   [E) Logs](#Logs)
-    *   [Feature Hightlight: full log integration](#FeatureHighlightfulllogintegration)
-*   [F) Application View](#ApplicationView)
-    *   [Feature Highlight: Session Replay](#FeatureHighlightSessionReplay)
+*   [Overview](#section-overview-4)
+*   [A) Smartscape](#a-smartscape)
+*   [B) Services View](#b-services-view)
+    *   [Dynatrace workshops versus real deployment or evaluations](#dynatrace-workshops-versus-real-deployment-or-evaluations)
+*   [C) Kubernetes View](#c-kubernetes-view)
+*   [D) Databases View](#d-databases-view)
+*   [E) Logs](#e-logs)
+    *   [Feature Hightlight: full log integration](#feature-hightlight-full-log-integration)
+*   [F) Application View](#f-application-view)
+    *   [Feature Highlight: Session Replay](#feature-highlight-session-replay)
 
 In this section we’ll look at the front to back visibility provided by Dynatrace immediately after deployment.
 
 We’ll also share a few highlights of user-configurable options available. Any of them could be automated.
 
-<a name="Smartscape"></a>
+
 
 A) Smartscape
 -------------
@@ -443,7 +443,7 @@ A) Smartscape
 
 This visibility is unparalled when planning to move applications to another data center or cloud; All dependencies are clearly visible.
 
-<a name="ServicesView"></a>
+
 
 B) Services View
 ----------------
@@ -458,7 +458,7 @@ B) Services View
 *   Bottom left shows service KPI’s like failure rate & throughput
 *   Dynatrace always keeps everything connected. The right side shows ways to view the service flow, back up the chain, and individual traces
 
-<a name="Dynatraceworkshopsversus"></a>
+
 
 ### Dynatrace workshops versus real deployment or evaluations
 
@@ -473,7 +473,7 @@ While Dynatrace will immediately evaluate every transaction, it builds data and 
 
 8.  Make sure to save! <img src="../images/savebottomleft.DXhdBLr5_Z1TXFAg.webp">
 
-<a name="KubernetesView"></a>
+
 
 C) Kubernetes View
 ------------------
@@ -489,7 +489,7 @@ You’ll see a cluster overview, namespaces, workloads, and the option to turn o
 4.  On this page, you can see Dynatrace automatically building visibility up to the services provided & down into the infrastructure.
     
 
-<a name="DatabasesView"></a>
+
 
 D) Databases View
 -----------------
@@ -499,12 +499,12 @@ D) Databases View
 1.  Select “Databases” on the left menu, then “dbic”. Similar to services, Dynatrace constantly tracks service dependencies, and underlying infrastructure at all times.
 2.  Database calls from any source are shown here with the ability to reverse back up the chain with the “view backtrace” button.
 
-<a name="Logs"></a>
+
 
 E) Logs
 -------
 
-<a name="FeatureHighlightfulllogintegration"></a>
+
 
 ### Feature Hightlight: full log integration
 
@@ -516,7 +516,7 @@ E) Logs
 4.  Select “Logs” on the left menu.
 5.  Select from log types, messages, and sources in “available attributes”. <img src="../images/explore5.ByQ33iag_ZThdyU.webp">
 
-<a name="ApplicationView"></a>
+
 
 F) Application View
 -------------------
@@ -532,7 +532,7 @@ Tip
 
 It’s easy to split applications into their own views. It’s done by selecting the ”…” in the applications view and “editing detection settings”
 
-<a name="FeatureHighlightSessionReplay"></a>
+
 
 ### Feature Highlight: Session Replay
 
@@ -573,24 +573,24 @@ Congratulations, you’ve successfully explored your application in Dynatrace!
 
 <br /><br /><br />
 
-<a name="ReleaseDynabank"></a>
+
 
 6 - Release: Dynabank
 ====================
 
 <br />
 
-<a name="Overview6"></a>
+
 Section Overview
 ===
 
-*   [Overview](#Overview6)
-*   [The story so far](#thestorysofar)
-*   [Enable the service](#Enabletheservice)
+*   [Overview](#section-overview-5)
+*   [The story so far](#the-story-so-far)
+*   [Enable the service](#enable-the-service)
 
 
 
-<a name="Thestorysofar"></a>
+
 
 The story so far
 ----------------
@@ -610,7 +610,7 @@ As developers:
 <img src="../images/leavework.DR6Rlv7g_APkzs.webp">
 
 
-<a name="Enabletheservice"></a>
+
 
 Enable the service
 ------------------
@@ -640,22 +640,22 @@ Your DynaBank account is authorized to deploy new software features!
     *   [A) Azure Specific](#a---azure-specific)
 
 
-<a name="Troubleshoot"></a>
+
 
 7 - Troubleshoot!
 ================
 
-<a name="Overview7"></a>
+
 
 Section Overview
 ===
 
-*   [Overview](#Overview7)
-*   [The story even further](#Thestoryevenfurther)
-*   [Enter Dynatrace](#EnterDynatrace)
-*   [Companies using this today](#Companiesusingthistoday)
+*   [Overview](#section-overview-6)
+*   [The story even further](#the-story-even-further)
+*   [Enter Dynatrace](#enter-dynatrace)
+*   [Companies using this today](#companies-using-this-today)
 
-<a name="Thestoryevenfurther"></a>
+
 
 The story even further
 ----------------------
@@ -669,7 +669,7 @@ The story even further
 
 <img src="../images/troubleshoot1.yOjzrqA5_Z1h1Gxy.webp">
 
-<a name="EnterDynatrace"></a>
+
 
 Enter Dynatrace
 ---------------
@@ -715,7 +715,7 @@ Terminal window
 
 8.  Review the transactionAPI for decrease in failures. After a few minutes without user users, Dynatrace will automatically close the ticket.
 
-<a name="Companiesusingthistoday"></a>
+
 
 Companies using this today
 --------------------------
@@ -740,31 +740,31 @@ Companies using this today
 
 <br /><br /><br />
 
-<a name="Customization"></a>
+
 
 8 - Customization
 ================
 
 <br />
 
-<a name="Overview8"></a>
+
 
 Section Overview
 ===
 
-*   [Overview](#Overview8)
-*   [Easy ways to make Dynatrace your own](#Easyways)
-*   [A) Service Request Attributes](#ServiceRequestAttributes)
-*   [B) Application Tags](#ApplicationsTags)
-*   [C) Dashboards](#Dashboards)
+*   [Overview](#section-overview-7)
+*   [Easy ways to make Dynatrace your own](#easy-ways-to-make-dynatrace-your-own)
+*   [A) Service Request Attributes](#a-service-request-attributes)
+*   [B) Application Tags](#b-application-tags)
+*   [C) Dashboards](#c-dashboards)
 
 
-<a name="Easyways"></a>
+
 
 Easy ways to make Dynatrace your own
 ------------------------------------
 
-<a name="ServiceRequestAttributes"></a>
+
 
 A) Service Request Attributes
 -----------------------------
@@ -804,7 +804,7 @@ Preprocess parameter by extracting substring
 5.  **Make sure** to save your attribute source.
 6.  **Make sure** to click “save” in the top right corner.
 
-<a name="ApplicationsTags"></a>
+
 
 B) Application Tags
 -------------------
@@ -839,7 +839,7 @@ DynaUser (or whatever you selected)
 
 After a short time, you’ll see Dynatrace associate users with their sessions.
 
-<a name="Dashboards"></a>
+
 
 C) Dashboards
 -------------
@@ -882,25 +882,25 @@ You've successfully see how Dynatrace can be tailored to your specific needs.
 
 <br /><br /><br />
 
-<a name="SessionsSessionReplay"></a>
+
 
 9 - Sessions / Session Replay
 ============================
     
 <br />   
 
-<a name="Overview9"></a>
+
 
 Section Overview
 ===
 
-*   [Overview](#Overview9)
-*   [User Sessions overview](#UserSessionsoverview)
-*   [User Replay overview](#UserReplayoverview)
+*   [Overview](#section-overview-8)
+*   [User Sessions overview](#user-sessions-overview)
+*   [User Replay overview](#user-replay-overview)
 
 
 
-<a name="UserSessionsoverview"></a>
+
 
 User Sessions overview
 ----------------------
@@ -910,7 +910,7 @@ Overview of User Sessions in Dynatrace.
 <img src="../images/sessions.BI2piuDj_ZNcT5f.webp">
 
 
-<a name="UserReplayoverview"></a>
+
 
 User Replay overview
 --------------------
@@ -936,7 +936,7 @@ Overview of Session Replay in Dynatrace.
 
 <br /><br /><br /> 
 
-<a name="AzureSpecific"></a>
+
 
 A - Azure Specific
 =================
