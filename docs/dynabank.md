@@ -4,7 +4,7 @@ Index
 ===
     
 *   [Full Stack: Front-to-Back](#Index)
-*   [2) Pre-flight Check](#Pre-flightCheck)
+*   [2) Pre-flight Check](#2---pre-flight-check)
 *   [3) Dynatrace Intro](#DynatraceIntro) 
 *   [4) Deploy](#Deploy)
 *   [5) Explore: Dynabank](#ExploreDynabank)
@@ -35,7 +35,7 @@ Section Overview
 
 *   [Overview](#Overview1)
 *   [Typical Agenda](#TypicalAgenda)
-*   [Introductions/Housekeeping](#Introductions/Housekeeping)
+*   [Introductions/Housekeeping](#IntroductionsHousekeeping)
     *   [Housekeeping](#Housekeeping)
 
 <a name="TypicalAgenda"></a>
@@ -60,7 +60,7 @@ Typical Agenda
 *   30m User Sessions, Session replay
 *   Final Q&A and wrap-up
 
-<a name="Introductions/Housekeeping"></a>
+<a name="IntroductionsHousekeeping"></a>
 Introductions/Housekeeping
 --------------------------
 <img src="../images/spaceballs.yZ4LnrjP_Z1JwWgI.webp">
@@ -120,6 +120,7 @@ A) Dynatrace tenant setup
 4.  Check email (junk/spam folders!) for a “Welcome” message.
 
 <a name="CloudSetup"></a>
+
 B) Cloud setup
 --------------
 
