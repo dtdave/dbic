@@ -90,14 +90,14 @@ About our group:
 Section Overview
 ===
 
-*   [Overview](#Overview2)
-*   [Environment setup](#EnvironmentSetup)
-*   [A) Dynatrace tenant setup](#DynatraceTenantSetup)
-*   [B) Cloud setup](#CloudSetup)
-    *   [AWS](#CloudSetupAWS)
-    *   [AZURE](#CloudSetupAzure)
-    *   [GCP](#CloudSetupGCP)
-*   [C) Setup](#Setup)
+*   [Overview](#section-overview-1)
+*   [Environment setup](#environment-setup)
+*   [A) Dynatrace tenant setup](#a-dynatrace-tenant-setup)
+*   [B) Cloud setup](#b-cloud-setup)
+    *   [AWS](#aws)
+    *   [AZURE](#azure)
+    *   [GCP](#gcp)
+*   [C) Setup](#c-setup)
 
 
 <a name="EnvironmentSetup"></a>
@@ -209,11 +209,11 @@ Congratulations, you’ve built an Kubernetes cluster!
 Section Overview
 ===
 
-*   [Overview](#Overview3)
-*   [Dynatrace](#Dynatrace)
-*   [Dynabank](#Dynabank)
-    *   [Login Page](#LoginPage)
-    *   [Architecture Overview](#ArchitectureOverview)
+*   [Overview](#section-overview-2)
+*   [Dynatrace](#dynatrace)
+*   [Dynabank](#dynabank)
+    *   [Login Page](#login-page)
+    *   [Architecture Overview](#architecture-overview)
 
 <a name="Dynatrace"></a>
 Dynatrace
@@ -265,7 +265,7 @@ Section Complete!
 Section Overview
 ===
 
-*   [Overview](#Overview4)
+*   [Overview](#section-overview-3)
 *   [Dynatrace](#DeployDynatraceSection)
     *   [A) Create a Token](#CreateAToken)
     *   [B) Save token in Pepper](#SavetokeninPepper)
