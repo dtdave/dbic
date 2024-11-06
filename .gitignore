@@ -6,3 +6,6 @@ dynakube.yaml
 *.csv
 
 .fake
+
+# Mac
+.DS_Store
