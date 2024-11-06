@@ -1,6 +1,6 @@
 # DynaBankInsuraCart
 A demo microservices application written in multiple languages. YOUR one stop shop for non-stop shopping!
 
-Documentation: [http://suchcodewow.io/docs/dbic](https://www.suchcodewow.io/docs/apps/dbic)
+Documentation on how to run a workshop using Dynabank can be found here: [Workshop Documentation](https://github.com/dtdave/dbic/blob/main/docs/dynabank.md)
 
-![image](https://github.com/suchcodewow/dbic/assets/2099988/1e7dff8a-654c-4e0c-a55f-730905c9d4a3)
+![image](images/DynaBankInsuraCart.BvoXZC_z_Z1TmFLI.webp)
